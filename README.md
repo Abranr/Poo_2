@@ -10,7 +10,8 @@ Este formulario fue desarrollado utilizando Java para la lógica del programa y 
 ### Lenguaje de Programación
 <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/java-icon.svg" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/mysql-icon.svg" /></a>
-<br>
+
+
 ### 📸Capturas del Proyecto
 ![image](https://github.com/user-attachments/assets/2aec3050-eb15-4c18-b3cb-7332823416a2)
 ![image](https://github.com/user-attachments/assets/3383a3dd-5683-4923-b928-2b3102d99238)
